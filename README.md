@@ -14,6 +14,6 @@ The remaining six columns on each row summarize the simulation results for that 
 
 Columns 113, 114, and 115 are the predicted flow rates at Outlet 1, Outlet 2, and Outlet 3, respectively.  The units are meters per second.
 
-Columns 116, 117, and 118 are the predicted solute concentrations at Outlet 1, Outlet 2, and Outlet 3, respectively.  The units are arbitrary and range from 0 (a 0% concentration of solute, which is also the same as the concentration of the fluid flowing into Inlet 2) to 1 (a 100% concentration of solute, which is also the same as the concentration of the fluidic flowing into Inlet 1).
+Columns 116, 117, and 118 are the predicted solute concentrations at Outlet 1, Outlet 2, and Outlet 3, respectively.  The units are a decimal representation of a percent concentration, so the values range from 0 (a 0% concentration of solute, which is also the same as the concentration of the fluid flowing into Inlet 2) to 1 (a 100% concentration of solute, which is also the same as the concentration of the fluidic flowing into Inlet 1).
 
 You're welcome to use this data in other research projects; please cite the paper above.
