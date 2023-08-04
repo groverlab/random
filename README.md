@@ -6,7 +6,7 @@ The file [random.csv](random.csv) contains a table of the results from all 10513
 
 The first 112 columns on each row refer to the presence (`1`) or absence (`0`) of a particular microfluidic channel in that design.  Their order corresponds to the purple numbers on the channels in this figure from the above paper:
 
-<img src="channel_numbers.png">
+<img src="channel-numbers.png">
 
 For example, column 1 contains a `1` if channel 1 is present in that row's design and `0` if channel 1 is absent, colum 2 contains a `1` if channel 2 is present in that row's design and `0` if channel 2 is absent, and so on, all the way to column 112 (channel 112).
 
