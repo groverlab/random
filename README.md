@@ -4,7 +4,7 @@ This site provides supplementary material to accompany the paper ["Random Design
 
 The file [**random.csv**](random.csv) contains a table summarizing the results from all 10513 random microfluidic chip designs that were generated and simulated in the above paper.  This is a text file in [CSV (comma-separated values) format](https://en.wikipedia.org/wiki/Comma-separated_values).  Each line or row in the file corresponds to one random microfluidic chip design, and commas are used to separate the columns in the file.
 
-The first 112 columns on each row contain `1`s if a particular channel is present in that row's chip design or a `0`s if that channel is absent in the design.  The order of the columns corresponds to the purple channel numbers in this figure from the above paper:
+The first 112 columns on each row contain a `1` if a particular channel is present in that row's chip design or a `0` if that channel is absent in the design.  The order of the columns corresponds to the purple channel numbers in this figure from the above paper:
 
 <div style="text-align: center;">
 <img src="channel-numbers.png">
