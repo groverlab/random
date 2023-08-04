@@ -6,7 +6,9 @@ The file [**random.csv**](random.csv) contains a table summarizing the results f
 
 The first 112 columns on each row contain `1`s if a particular channel is present in that row's chip design or a `0`s if that channel is absent in the design.  The order of the columns corresponds to the purple channel numbers in this figure from the above paper:
 
+<div style="text-align: center;">
 <img src="channel-numbers.png">
+</div>
 
 So for example, column 1 in the file contains a `1` if Channel 1 is present in that row's design and `0` if Channel 1 is absent, column 2 contains a `1` if Channel 2 is present in that row's design and `0` if Channel 2 is absent, and so on, all the way to column 112 (Channel 112).
 
