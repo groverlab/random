@@ -2,7 +2,7 @@
 
 This site provides supplementary material to accompany the paper ["Random Design of Microfluidics" by Junchao Wang, Philip Brisk, and William H. Grover, *Lab on a Chip* **16**, 4212-4219 (2016)](https://pubs.rsc.org/en/content/articlelanding/2016/lc/c6lc00758a) [(PDF)](https://groverlab.org/assets/random-microfluidics.pdf).
 
-The file [**random.csv](random.csv) contains a table summarizing the results from all 10513 random microfluidic chip designs that were generated and simulated in the above paper.  This is a text file in [CSV (comma-separated values) format](https://en.wikipedia.org/wiki/Comma-separated_values).  Each line or row in the file corresponds to one random microfluidic chip design, and commas are used to separate the columns in the file.
+The file [**random.csv**](random.csv) contains a table summarizing the results from all 10513 random microfluidic chip designs that were generated and simulated in the above paper.  This is a text file in [CSV (comma-separated values) format](https://en.wikipedia.org/wiki/Comma-separated_values).  Each line or row in the file corresponds to one random microfluidic chip design, and commas are used to separate the columns in the file.
 
 The first 112 columns on each row each contains a `1` if a particular channel is present in that row's chip design or a `0` if that channel is absent in the design.  The order of the columns corresponds to the purple numbers on the channels in this figure from the above paper:
 
